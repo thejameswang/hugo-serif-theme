@@ -1,0 +1,20 @@
+{
+  "name": "hugo-serif-theme",
+  "version": "1.0.0",
+  "description": "Serif is a modern business theme for Hugo. It contains multiple content types and pages. The theme is fully responsive, blazing fast and artfully illustrated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "hugo --gc --themesDir ../.."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejameswang/hugo-serif-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejameswang/hugo-serif-theme/issues"
+  },
+  "homepage": "https://github.com/thejameswang/hugo-serif-theme#readme"
+}

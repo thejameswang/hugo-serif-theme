@@ -6,3 +6,10 @@
   HUGO_VERSION = "0.80.0"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
+
+[functions]
+  # Directory with serverless functions, including background
+  # functions, to deploy. This is relative to the base directory
+  # if one has been set, or the root directory if
+  # a base hasn’t been set.
+  directory = "functions/"

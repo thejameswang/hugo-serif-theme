@@ -73,6 +73,11 @@ title = "Hugo Serif Theme"
     name = "Contact"
     url = "/contact/"
     weight = 4
+  
+  [[menu.main]]
+    name = "Test"
+    url = "/test/"
+    weight = 5
 
   # Footer Menu
   [[menu.footer]]
